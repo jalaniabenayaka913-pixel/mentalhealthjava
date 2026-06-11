@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[]) {
 
         Student student = new Student(1, "Thimanya", 101);
         Counselor counselor = new Counselor(2, "Dr. Silva", 201);
