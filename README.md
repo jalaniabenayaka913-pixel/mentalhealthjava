@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-`mentalhealthjava` is a Java-based student management system built using object-oriented programming principles. The application enables users to manage student records with core CRUD operations and generate simple reports.
+`mentalhealthjava` is a Java-based student management system built using object-oriented programming principles. The application enables users to manage student records with core CRUD operations and generate simple reports.The project's development and version tracking were managed entirely through GitHub.
 
 ## Key Features
 
