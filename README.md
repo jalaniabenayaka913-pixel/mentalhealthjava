@@ -20,9 +20,7 @@
 - GitHub
 - SonarQube
 
-## Getting Started
-
-### Prerequisites
+### Prerequirement
 
 - Java JDK 8 or higher installed
 - IntelliJ IDEA or another Java IDE
